@@ -14,7 +14,7 @@ Feel free to choose one that fits you the best, or use any other e2e testing fra
 
 Install dependencies for Rspec or Cucumber if you choose to use one of them:
 ```
-gem bundler install
+gem install bundler
 ```
 
 ```
