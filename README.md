@@ -9,9 +9,9 @@ Feel free to choose one that fits you the best, or use any other e2e testing fra
 
 
 ## Feature: Enrollment in a test course
-  As an user of the system
-  I want to enroll in and complete a test course
-  So that I can learn the course material
+#  As an user of the system
+#  I want to enroll in and complete a test course
+#  So that I can learn the course material
 
 
 ## Setup
@@ -28,7 +28,7 @@ bundle install
 ## To Run
 => cucumber ENVIRONMENT="qa" BROWSER="chrome"
 
-Example:
+#Example:
 => cucumber ENVIRONMENT="qa" BROWSER="chrome"
 Using the default profile...
 Feature: Enrollment in a test course
