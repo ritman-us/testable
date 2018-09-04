@@ -1,0 +1,6 @@
+base_url: http://takehome.zeachable.com
+signup_url: https://sso.zeachable.com/secure/136655/users
+
+qa:
+  username: $username
+  password: test12345!

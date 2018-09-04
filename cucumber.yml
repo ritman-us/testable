@@ -1,0 +1,1 @@
+default: --expand --no-source --color --format html --out reports/last_run_report.html --format pretty

@@ -1,0 +1,9 @@
+
+#new user data
+create_new_account:
+  full_name: ~"testuser#{$timestamp}"
+  email: ~"teach#{$timestamp}@mailinator.com"
+  password: test12345!
+  confirm_password: test12345!
+  promotional_email: true
+  terms: true

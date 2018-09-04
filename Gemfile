@@ -1,9 +1,10 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-ruby "~> 2.4.2"
-
-gem "cucumber"
-gem "rspec",                  "~> 3.6.0"
-gem "capybara",               "~> 2.15"
-gem "chromedriver-helper",    "~> 1.1"
-gem "selenium-webdriver",     "3.6.0"
+gem 'cucumber'
+gem 'watir', '6.11.0'
+gem 'page-object'
+gem 'webdriver-highlighter'
+gem 'data_magic'
+gem 'fig_newton'
+gem 'rspec-core'
+gem 'rspec-expectations'
